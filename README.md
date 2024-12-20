@@ -2,7 +2,7 @@
 Rectangles drawn around the detected faces.
 
 CODE EXPLANATION:
-_-_-_-_-_-_-_-_-_
+
 
 This code uses OpenCV, a popular computer vision library, to detect faces in an image using the Haar Cascade Classifier method. Let me explain it step by step:
 
@@ -89,7 +89,7 @@ This code uses OpenCV, a popular computer vision library, to detect faces in an 
 
 
    STEPS TO RUN THE CODE:
-   _-_-_-_-_-_-_-_-_-_-_
+   
 
 
    1. Set Up the Environment:
